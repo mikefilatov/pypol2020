@@ -7,3 +7,7 @@
 ### Неделя 1
 
 [Вводное занятие](https://github.com/mikefilatov/pypol2020/tree/master/week_1). Знакомство со средой Jupyter, переменные, input/output
+
+### Неделя 2
+
+[Списки и циклы](https://github.com/mikefilatov/pypol2020/tree/master/week_2). Начинаем знакомиться со структурами данных и немного погружаемся в циклы
