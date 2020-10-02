@@ -30,6 +30,9 @@
 ### python
 
 [Pep 8](https://pep8.ru/doc/pep8/). Code style питона на русском, обязательно почитайте
+
 [for loops](https://realpython.com/python-for-loop/). Большой гайд по циклу for в питоне
+
 [lists in python](https://docs.python.org/3/tutorial/datastructures.html). Официальная документация по спискам в питоне 
+
 [DS in python](https://realpython.com/python-data-structures/). Большой конспект по структурам данных в питоне
