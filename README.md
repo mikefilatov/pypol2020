@@ -30,7 +30,7 @@
 |          Тема        |       Ссылка на ДЗ, дедлайн        |    Ссылка для отправки файлов                |
 |------------------|---------------|--------------------|
 | Введение в питон | [HW1](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw1.ipynb).  17.10.2020 | Файлы кидать [сюда](https://www.dropbox.com/request/bYaF8bwqHziUtv0CyCXn)  |
-| Циклы и управляющие конструкции    | [HW2](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw2.ipynb). 24.10.2020          |      Файлы кидать [сюда](https://www.dropbox.com/request/d8i5pRbAhYOL479WUpeA)              |
+| Циклы и управляющие конструкции    | [HW2](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw2.ipynb). 26.10.2020          |      Файлы кидать [сюда](https://www.dropbox.com/request/d8i5pRbAhYOL479WUpeA)              |
 
 
 ----
