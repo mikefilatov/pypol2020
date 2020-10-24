@@ -22,6 +22,10 @@
 
 [if-else-while](https://github.com/mikefilatov/pypol2020/tree/master/week_4). Управляющие конструкции, множества, цикл `while`
 
+### Неделя 5
+
+[Словари](https://github.com/mikefilatov/pypol2020/tree/master/week_5). Знакомимся со словарями, повторяем списковые включенияю.
+
 ----
 
 ## Домашние задания
