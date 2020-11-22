@@ -26,6 +26,26 @@
 
 [Словари](https://github.com/mikefilatov/pypol2020/tree/master/week_5). Знакомимся со словарями, повторяем списковые включенияю.
 
+### Неделя 6
+
+[Функции](https://nbviewer.jupyter.org/github/ischurov/pythonhse/blob/master/Lecture%204.ipynb)
+
+### Неделя 7
+
+[Обработка исключений, чтение файлов](https://github.com/mikefilatov/pypol2020/blob/master/lect_7.ipynb). Более подробно в [лекции](https://nbviewer.jupyter.org/github/ischurov/pythonhse/blob/master/Lecture%207.ipynb) И. Щурова и [лекции](https://drive.google.com/drive/folders/1VjLdIzjJRCjd8vp7KC_-uHvfoFgn-j5F) В. Етушенко
+
+### Неделя 8
+
+[Библиотека pandas](https://github.com/mikefilatov/pypol2020/blob/master/pandas_intro.ipynb)
+
+### Неделя 9
+
+[html](https://nbviewer.jupyter.org/github/allatambov/Py-programming-3/blob/master/01-06/lect-html.ipynb), [Парсинг веб-страниц](https://nbviewer.jupyter.org/github/allatambov/PyProg-2018/blob/master/07-12/web-scrape.ipynb)
+
+### Неделя 10
+
+[Selenum](https://nbviewer.jupyter.org/github/allatambov/Py-programming-3/blob/master/11-06/lect-selenium-1.ipynb), [Selenium продолжение](https://github.com/allatambov/Py-programming-3/blob/master/15-06/lect-selenium2.ipynb), [Работа с API ВКонтакте](https://nbviewer.jupyter.org/github/allatambov/PyProg-2018/blob/master/10-12/lect-vk-api.ipynb)
+
 ----
 
 ## Домашние задания
