@@ -32,7 +32,7 @@
 
 ### Неделя 7
 
-[Обработка исключений, чтение файлов](https://github.com/mikefilatov/pypol2020/blob/master/lect_7.ipynb). Более подробно в [лекции](https://nbviewer.jupyter.org/github/ischurov/pythonhse/blob/master/Lecture%207.ipynb) И. Щурова и [лекции](https://drive.google.com/drive/folders/1VjLdIzjJRCjd8vp7KC_-uHvfoFgn-j5F) В. Етушенко
+[Обработка исключений, чтение файлов](https://github.com/mikefilatov/pypol2020/blob/master/lect_7.ipynb). Более подробно в [лекции](https://nbviewer.jupyter.org/github/ischurov/pythonhse/blob/master/Lecture%207.ipynb) И. Щурова и [лекции](https://drive.google.com/drive/folders/1VjLdIzjJRCjd8vp7KC_-uHvfoFgn-j5F) В. Евтушенко
 
 ### Неделя 8
 
