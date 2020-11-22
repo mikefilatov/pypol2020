@@ -44,7 +44,7 @@
 
 ### Неделя 10
 
-[Selenum](https://nbviewer.jupyter.org/github/allatambov/Py-programming-3/blob/master/11-06/lect-selenium-1.ipynb), [Selenium продолжение](https://github.com/allatambov/Py-programming-3/blob/master/15-06/lect-selenium2.ipynb), [Работа с API ВКонтакте](https://nbviewer.jupyter.org/github/allatambov/PyProg-2018/blob/master/10-12/lect-vk-api.ipynb)
+[Selenium](https://nbviewer.jupyter.org/github/allatambov/Py-programming-3/blob/master/11-06/lect-selenium-1.ipynb), [Selenium продолжение](https://github.com/allatambov/Py-programming-3/blob/master/15-06/lect-selenium2.ipynb), [Работа с API ВКонтакте](https://nbviewer.jupyter.org/github/allatambov/PyProg-2018/blob/master/10-12/lect-vk-api.ipynb)
 
 ----
 
@@ -55,6 +55,9 @@
 |------------------|---------------|--------------------|
 | Введение в питон | [HW1](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw1.ipynb).  17.10.2020 | Файлы кидать [сюда](https://www.dropbox.com/request/bYaF8bwqHziUtv0CyCXn)  |
 | Циклы и управляющие конструкции    | [HW2](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw2.ipynb). 26.10.2020          |      Файлы кидать [сюда](https://www.dropbox.com/request/d8i5pRbAhYOL479WUpeA)              |
+| Функции | [HW3](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw3.ipynb). 03.12.2020 | Файлы кидать [сюда](https://www.dropbox.com/request/lkSoJlOGuEE4bgM9aJZh) |
+| Pandas | [HW4](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw4.ipynb). 10.12.2020 | Файлы кидать [сюда](https://www.dropbox.com/request/oGm59Nl1AYgJq4jlc6GN)
+| Парсинг веб-страниц | [HW5](https://github.com/mikefilatov/pypol2020/blob/master/HW/hw5.ipynb). 17.12.2020 | Файлы кидать [сюда](https://www.dropbox.com/request/7kJeR8Hrw2LthFMDyZjD)
 
 
 ----
